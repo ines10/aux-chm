@@ -1,0 +1,200 @@
+
+.products
+{
+
+    float: left;
+
+    height: 600px;
+
+
+}
+.menu  img
+{
+    max-width: 100%;
+    max-height: 100px;
+}
+.everything
+{
+    background-color: black;
+
+}
+.tit
+{
+    max-width: 100%;
+    height: 99px;
+}
+.tit label
+{
+    color: #000;
+    text-align: center;
+    margin-bottom: 1.5em;
+    font-size: 3em;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.per2blk
+{
+    background-color: #5bc0de;
+    float: bottom;
+}
+
+.out-block
+{
+    margin: 12px;
+    background-color: white;
+    width: 260px;
+    height: 230px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 2px;
+    float: left;
+}
+.title label
+{
+
+    font-family: "Courier New";
+    font-weight: bold;
+    margin-top: 20px;
+    color: white;
+
+}
+.me
+{
+    width: 160px;
+    float: left;
+    background-color: #262626;
+
+}
+.title
+{
+
+    background-color: #FF5733;
+    width: 250px;
+    height: 35px;
+    margin-left:5px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.add
+{
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    background-color: #FF5733; /* Green */
+    border-width: 1px;
+    border-style: outset;
+    border-color: antiquewhite;
+
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 102px;
+    height: 30px;
+    margin-top:100px ;
+    margin-left: 2px;
+
+}
+
+
+.add:hover
+{
+
+    background-color: #e3e3e3; /* Green */
+    color:#FF5733 ;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+
+}
+
+
+
+.image
+{
+    background-color: #5bc0de;
+    width: 140px;
+    height: 160px;
+    margin-left: 5px;
+    margin-top: 15px ;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.price
+{
+    background-color: #e3e3e3;
+    width: 105px;
+    height : 20px;
+
+    margin-top: 5px ;
+    float: bottom;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.image img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.text
+{
+    background-color: rgb(247,123,85);
+    width:105px;
+    height: 160px;
+    margin-left: 5px;
+    margin-top: 15px ;
+    float: left;
+}
+.categ
+{
+
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    background-color: white; /* Green */
+    border-width: 1px;
+    border-style: outset;
+    border-color: antiquewhite;
+
+    color: Black;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 150px;
+    height: 50px;
+
+}
+.border
+{
+    width: 100%;
+    height: 3px;
+    background-color: black;
+
+}
+.buttons
+{
+
+    background-color: rgb(233,235,238);
+    width: 150px;
+    height: 400px;
+    margin: 0px;
+}
+.menu
+{
+    background-color: rgb(233,235,238);
+    width: 150px;
+    height: 600px;
+    border-right: 1px solid grey;
+    float:left;
+
+
+
+
+}
